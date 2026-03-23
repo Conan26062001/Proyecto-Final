@@ -1,12 +1,12 @@
-INFORME DE
-INCIDENTE DE
-SEGURIDAD
+INFORME DE INCIDENTE DE SEGURIDAD
+
 Índice
 Introducción
 Procesos en ejecución
 Escaneo de rootkit
 Identificación de cambios
 Actualización de la seguridad
+
 Introducción
 El objetivo de este informe es llevar a cabo un análisis sobre un incidente de seguridad
 que ha habido en un servidor crítico de 4Geeks Academy.
